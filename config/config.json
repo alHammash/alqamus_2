@@ -1,0 +1,24 @@
+{
+  "development": {
+        "username": "alqamus",
+        "password": "alqamus",
+        "database": "alqamus",
+    "host": "127.0.0.1",
+        "dialect": "mysql"
+
+  },
+  "test": {
+        "username": "alqamus",
+        "password": "alqamus",
+        "database": "alqamus",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+        "username": "alqamus",
+        "password": "alqamus",
+        "database": "alqamus",
+    "host": "127.0.0.1",
+        "dialect": "mysql"
+  }
+}
