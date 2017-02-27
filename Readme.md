@@ -32,5 +32,5 @@ to setup project
 go to project folder
 npm install
 cd bin
-node www
+node www 
 http://localhost:3000/
